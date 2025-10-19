@@ -1,0 +1,20 @@
+.hero-section{
+	height: 80vh;
+	background-image: url("../img/aaa.png");
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.spain{
+	text-align: center;
+	font-size: 200px;
+}
+
+.center{
+	text-align: center;
+	font-weight: bold;
+}
+.cntnt{
+	font-size: 25px;
+}
