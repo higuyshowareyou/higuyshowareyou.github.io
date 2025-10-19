@@ -21,3 +21,6 @@
 .aaaa{
 	text-decoration: underline;
 }
+body {
+  background-image: linear-gradient(to right, red, yellow, orange );
+}
