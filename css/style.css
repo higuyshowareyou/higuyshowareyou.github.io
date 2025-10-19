@@ -23,5 +23,5 @@
 }
 body {
   background-image: linear-gradient(to right, red, yellow, orange );
-  font-family: Times New Roman;
+  font-family: "Times New Roman", Times, serif;
 }
